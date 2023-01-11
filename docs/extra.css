@@ -1,0 +1,12 @@
+
+/* Inline Markdown Examples */
+code.md {
+  color: #000000;
+  background: #f8f8f8;
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #c0c0c0;
+  padding: 1em 10px .1em 10px;
+}

@@ -1,0 +1,20 @@
+site_name: My Test Site
+site_url: https://ittegrat.github.io/mkdocs-test/
+
+repo_url: https://github.com/ittegrat/mkdocs-test
+edit_uri: ''
+
+use_directory_urls: false
+
+theme:
+  name: readthedocs
+  include_homepage_in_sidebar: false
+  prev_next_buttons_location: none
+
+extra_css: [extra.css]
+
+markdown_extensions:
+  - attr_list
+  - footnotes
+  - def_list
+  - admonition
