@@ -1,3 +1,6 @@
+---
+tags: syntax
+---
 # Basic Syntax
 
 ## Headings

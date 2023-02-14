@@ -1,0 +1,18 @@
+---
+title: Tags
+---
+# Pages by tag
+
+<strong><i class="fa fa-tags" aria-hidden="true"></i> Tags: </strong>
+{%- for tag in tags -%}
+[ {{tag[0]}} ]( #{{tag[0]}} )
+{%- endfor %}
+
+{% for tag, pages in tags %}
+
+<h2><span class="tag">{{tag}}</span></h2>
+{%  for page in pages %}
+  * [{{page.title}}]({{page.src_uri}})
+{% endfor %}
+
+{% endfor %}
