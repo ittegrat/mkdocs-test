@@ -1,3 +1,6 @@
+---
+tags: [ syntax ]
+---
 # Extended Syntax
 
 ## Tables
