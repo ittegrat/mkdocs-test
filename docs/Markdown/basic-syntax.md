@@ -171,7 +171,7 @@ A search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine
 ```
 <user@example.com>
 
-###### Reference-style Links
+###### Reference-style links
 ```markdown
 [GitHub][gh_link_label]
 
@@ -180,6 +180,12 @@ A search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine
 [GitHub][gh_link_label]
 
 [gh_link_label]: https://github.com 'GitHub Tooltip'
+
+###### Links to pages
+```markdown
+See the [extended syntax](extended-syntax.md) section.
+```
+See the [extended syntax](extended-syntax.md) section.
 
 ###### Anchor links
 ```markdown
