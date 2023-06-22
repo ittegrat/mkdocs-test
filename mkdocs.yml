@@ -10,7 +10,6 @@ theme:
   name: readthedocs
   include_homepage_in_sidebar: false
   prev_next_buttons_location: none
-  custom_dir: _theme/
   hljs_style: vs
 
 extra_css: [extra.css]
