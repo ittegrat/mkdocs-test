@@ -1,5 +1,6 @@
 site_name: My Test Site
 site_url: https://ittegrat.github.io/mkdocs-test/
+site_description: MkDocs Workbench
 
 repo_url: https://github.com/ittegrat/mkdocs-test
 edit_uri: ''
